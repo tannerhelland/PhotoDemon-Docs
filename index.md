@@ -99,41 +99,41 @@ PhotoDemon is meant to be as intuitive as possible, but if this is your first ti
       9. Vibrance
       10. White balance
       11. Channels
-         1. Channel mixer
-         2. Rechannel
-         3. Maximum / minimum channel
-         4. Shift left / shift right
+          1. Channel mixer
+          2. Rechannel
+          3. Maximum / minimum channel
+          4. Shift left / shift right
       12. Color
-         1. Color balance
-         2. White balance
-         3. Hue and saturation
-         4. Temperature
-         5. Tint
-         6. Vibrance
-         7. Black and white
-         8. Colorize
-         9. Replace color
-         10. Sepia
+          1. Color balance
+          2. White balance
+          3. Hue and saturation
+          4. Temperature
+          5. Tint
+          6. Vibrance
+          7. Black and white
+          8. Colorize
+          9. Replace color
+          10. Sepia
       13. Histogram
-         1. Display
-         2. Equalize
-         3. Stretch
+          1. Display
+          2. Equalize
+          3. Stretch
       14. Invert
       15. Lighting
-         1. Brightness and contrast
-         2. Curves
-         3. Gamma
-         4. Levels
-         5. Shadows and highlights
+          1. Brightness and contrast
+          2. Curves
+          3. Gamma
+          4. Levels
+          5. Shadows and highlights
       16. Monochrome
-         1. Color to monochrome
-         2. Monochrome to gray
+          1. Color to monochrome
+          2. Monochrome to gray
       17. Photography
-         1. Exposure
-         2. HDR
-         3. Photo filters
-         4. Red-eye removal
-         5. Split toning
+          1. Exposure
+          2. HDR
+          3. Photo filters
+          4. Red-eye removal
+          5. Split toning
    8. Effects
       1. Artistic
          1. Colored pencil
@@ -207,21 +207,21 @@ PhotoDemon is meant to be as intuitive as possible, but if this is your first ti
          1. Sharpen
          2. Unsharp masking
       10. Stylize
-         1. Antique
-         2. Diffuse
-         3. Outline
-         4. Palettize
-         5. Portrait glow
-         6. Solarize
-         7. Twins
-         8. Vignetting
+          1. Antique
+          2. Diffuse
+          3. Outline
+          4. Palettize
+          5. Portrait glow
+          6. Solarize
+          7. Twins
+          8. Vignetting
       11. Transform
-         1. Pan and zoom
-         2. Perspective
-         3. Polar conversion
-         4. Rotate
-         5. Shear
-         6. Spherize
+          1. Pan and zoom
+          2. Perspective
+          3. Polar conversion
+          4. Rotate
+          5. Shear
+          6. Spherize
       12. Custom filter
    9. Tools
       1. Language
