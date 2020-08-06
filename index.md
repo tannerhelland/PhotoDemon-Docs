@@ -5,16 +5,18 @@ nav_order: 1
 
 # PhotoDemon Documentation
 
-[PhotoDemon](https://github.com/tannerhelland/PhotoDemon) is a free, open-source, portable photo editor for Microsoft Windows.  You can download the program from [photodemon.org](http://photodemon.org) and its source code from [GitHub](https://github.com/tannerhelland/PhotoDemon).
+PhotoDemon is a free, open-source, portable photo editor for Microsoft Windows.  You can download the program from [photodemon.org](http://photodemon.org) and its source code from [GitHub](https://github.com/tannerhelland/PhotoDemon).
 
-[Download PhotoDemon](https://photodemon.org/download/){: .btn .btn-blue }
-[Download source code](https://github.com/tannerhelland/PhotoDemon){: .btn .btn-outline }
+[Download the app](https://photodemon.org/download/){: .btn .btn-blue }
+[Download its source code](https://github.com/tannerhelland/PhotoDemon){: .btn .btn-outline }
 
-PhotoDemon was designed to be as intuitive as possible, but if you are new to photo editing, some of the program's terminology and features may be confusing.  This guide is here to help.
+PhotoDemon was designed to be as intuitive as possible.  If you are familiar with other photo editors (like Adobe Photoshop, GIMP, Krita, or Paint.NET), you already know everything you need to use the program!
 
-To search for a particular topic, use the search bar at the top of this page.  You can also explore the topic tree on your left.
+If you are new to photo editing, however, some of PhotoDemon's terminology and features may be confusing.  This guide is here to help.
 
-Continue to [/Getting-Started]Getting Started
+To search for a specific topic, use the search bar at the top of this page.  You can also explore the topic tree on your left.
+
+[Continue to **Getting Started**](/docs/getting-started/index)
 
 ## Sections
 
