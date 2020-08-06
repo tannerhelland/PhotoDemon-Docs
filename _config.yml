@@ -20,7 +20,7 @@ footer_content: "<a href=\"https://photodemon.org/donate/\">Donate to support th
 last_edit_timestamp: false
 
 gh_edit_link: true 
-gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_link_text: "Help me improve this documentation!  Click here to propose a page edit (GitHub account required)."
 gh_edit_repository: "https://github.com/tannerhelland/PhotoDemon-Docs" 
 gh_edit_branch: "master" 
 gh_edit_view_mode: "edit" 
