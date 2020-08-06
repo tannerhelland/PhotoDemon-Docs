@@ -1,15 +1,16 @@
 # PhotoDemon User Manual
 
-[PhotoDemon](https://github.com/tannerhelland/PhotoDemon) is a portable photo editor.  You can download the program from [photodemon.org](http://photodemon.org) and its source code from [GitHub](https://github.com/tannerhelland/PhotoDemon).
+[PhotoDemon](https://github.com/tannerhelland/PhotoDemon) is a free, open-source, portable photo editor.  You can download the program from [photodemon.org](http://photodemon.org) and its source code from [GitHub](https://github.com/tannerhelland/PhotoDemon).
 
 PhotoDemon is meant to be as intuitive as possible, but if this is your first time using photo editing software, some of its terminology and layout may be confusing.  This manual is here to help.
 
 
 ## Sections
 
-1. Download and run PhotoDemon for the first time
-2. Quick Start guide
-3. Main UI
+1. Quick Start guide
+2. Download and extract the program
+3. Running PhotoDemon for the first time
+4. Main UI
    1. Toolbar (left panel)
       1. File tools
       2. Undo tools
@@ -24,7 +25,7 @@ PhotoDemon is meant to be as intuitive as possible, but if this is your first ti
       3. Layer subpanel
    4. Image canvas
    5. Image tabstrip
-4. Menus
+5. Menus
    1. File
       1. New
       2. Open
