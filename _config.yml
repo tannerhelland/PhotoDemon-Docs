@@ -1,5 +1,5 @@
-title: "PhotoDemon docs"
-description: "Official documentation for PhotoDemon, the fast, free, portable photo editor"
+title: "PhotoDemon Help"
+description: "Official help documentation for PhotoDemon (the fast, free, portable photo editor)"
 permalink: pretty
 
 remote_theme: pmarsceill/just-the-docs
@@ -16,7 +16,7 @@ heading_anchors: true
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "<a href=\"https://photodemon.org/donate/\">Donate to support this free project</a>.<br/>Copyright &copy; 2020 Tanner Helland.  Text and images provided under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0 license</a>."
+footer_content: "<a href=\"https://photodemon.org/donate/\">Donate to support this free project</a>.<br/>PhotoDemon's Help Documentation is Copyright &copy; 2020 Tanner Helland.  Docs are provided under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0 license</a>."
 last_edit_timestamp: false
 
 gh_edit_link: true 
