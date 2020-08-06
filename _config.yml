@@ -1,14 +1,24 @@
 title: "PhotoDemon documentation"
+description: "Official documentation for PhotoDemon, the fast, free, portable photo editor"
+permalink: pretty
+
 remote_theme: pmarsceill/just-the-docs
 color_scheme: pd
+
 search_enabled: true
+
 aux_links: 
-    "return to photodemon.org":
-	- "https://photodemon.org"
+  "return to photodemon.org":
+    - "//photodemon.org"
 aux_links_new_tab: false
+
 heading_anchors: true
+back_to_top: true
+back_to_top_text: "Back to top"
+
 footer_content: "Copyright &copy; 2020 Tanner Helland.  <a href=\"https://photodemon.org/donate/\">Donate to support this free project</a>.  Text and images are provided under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0 license</a>."
 last_edit_timestamp: false
+
 gh_edit_link: true 
 gh_edit_link_text: "Edit this page on GitHub."
 gh_edit_repository: "https://github.com/tannerhelland/PhotoDemon-Docs" 
