@@ -10,7 +10,7 @@ PhotoDemon is a free, open-source, portable photo editor for Microsoft Windows. 
 [Download the app](https://photodemon.org/download/){: .btn .btn-blue }
 [Download its source code](https://github.com/tannerhelland/PhotoDemon){: .btn .btn-outline }
 
-PhotoDemon was designed to be as intuitive as possible.  If you are familiar with other photo editors (like Adobe Photoshop, GIMP, Krita, or Paint.NET), you already know everything you need to use the program!
+PhotoDemon was designed to be as intuitive as possible.  If you've used other photo editors (like Adobe Photoshop, GIMP, Krita, or Paint.NET), you'll feel very at home here!
 
 If you are new to photo editing, however, some of PhotoDemon's terminology and features may be confusing.  This guide is here to help.
 
@@ -18,7 +18,7 @@ To search for a specific topic, use the search bar at the top of this page.  You
 
 [Continue to **Getting Started**](docs/getting-started/)
 
-## Sections
+## Rough outline for docs (WIP):
 
 1. Quick Start guide
 2. Download and extract the program
