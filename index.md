@@ -16,7 +16,7 @@ If you are new to photo editing, however, some of PhotoDemon's terminology and f
 
 To search for a specific topic, use the search bar at the top of this page.  You can also explore the topic tree on your left.
 
-[Continue to **Getting Started**](/docs/getting-started/index)
+[Continue to **Getting Started**](docs/getting-started/)
 
 ## Sections
 
