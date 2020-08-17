@@ -1,3 +1,9 @@
+---
+title: Download PhotoDemon
+nav_order: 2
+parent: Getting started
+---
+
 ## Downloading PhotoDemon
 
 Before using PhotoDemon, you first need to download it!  The latest PhotoDemon release can always be downloaded at [photodemon.org/downloads](https://photodemon.org/download/).
