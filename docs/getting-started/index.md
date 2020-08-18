@@ -12,8 +12,8 @@ To get started with PhotoDemon you just need to [download the version you want f
 
 For beginners, detailed walkthroughs of each step are available below.
 
-- [Downloading PhotoDemon](/download-photodemon)
-- [Installing PhotoDemon](/install-photodemon)
-- [Running PhotoDemon for the first time](/first-run)
+- [Downloading PhotoDemon](./download-photodemon)
+- [Installing PhotoDemon](./install-photodemon)
+- [Running PhotoDemon for the first time](./first-run)
 
 [Continue to TBD](./)
