@@ -9,4 +9,3 @@ parent: Getting started
 PhotoDemon is a [portable application](https://en.wikipedia.org/wiki/Portable_application).
 
 [Continue to TBD](./)
-[< Return to Download PhotoDemon](/download-photodemon)
