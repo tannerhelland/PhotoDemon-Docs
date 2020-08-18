@@ -56,4 +56,4 @@ Said another way, the program will *never* download an older version of itself. 
 
 So if you're currently using a nightly build and you want to return to the last stable build, you will need to manually download a copy of the last stable build.
 
-[Continue to Installing PhotoDemon](./)
+[Continue to Installing PhotoDemon](/install-photodemon)
