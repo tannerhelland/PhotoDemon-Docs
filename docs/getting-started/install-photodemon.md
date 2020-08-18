@@ -8,4 +8,4 @@ parent: Getting started
 
 PhotoDemon is a [portable application](https://en.wikipedia.org/wiki/Portable_application).
 
-[Continue to TBD](./)
+[Continue to Running PhotoDemon for the first time](./first-run)
