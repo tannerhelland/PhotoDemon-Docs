@@ -14,6 +14,7 @@ For beginners, detailed walkthroughs of each step are available below.
 
 - [Downloading PhotoDemon](./download-photodemon)
 - [Installing PhotoDemon](./install-photodemon)
-- [Running PhotoDemon for the first time](./first-run)
+- [Start PhotoDemon for the first time](./first-run)
+- [Edit your first photo](./first-photo)
 
 [Continue to TBD](./)
