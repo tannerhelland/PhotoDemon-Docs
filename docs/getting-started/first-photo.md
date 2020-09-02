@@ -14,11 +14,11 @@ One of the central themes in PhotoDemon is *there's no **one** right way to do t
 
 This starts with how you load images into the program for editing.  Here are some ways to do this:
 
-1) The `File > Open` menu
-2) The `File > Import` menu, with options for scanning images, importing them from the Internet, taking screenshots, and more
-3) Dragging files from somewhere like Windows Explorer and dropping them onto an open PhotoDemon window
-4) Before you even start PhotoDemon, you can drag image files onto the `PhotoDemon.exe` icon and the program will start up, then load the dropped files automatically
-5) The `Edit > Paste to new image` menu is also an option, if you've already copied files or images in another app
+1. The `File > Open` menu
+2. The `File > Import` menu, with options for scanning images, importing them from the Internet, taking screenshots, and more
+3. Dragging files from somewhere like Windows Explorer and dropping them onto an open PhotoDemon window
+4. Before you even start PhotoDemon, you can drag image files onto the `PhotoDemon.exe` icon and the program will start up, then load the dropped files automatically
+5. The `Edit > Paste to new image` menu is also an option, if you've already copied files or images in another app
 
 All of these options work interchangeably, and you can switch between them at any time.
 
